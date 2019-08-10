@@ -2,7 +2,7 @@
 Chapter 1
 #########
 
-This is chapter 1
+This is a new version of  chapter 1
 
 *********
 Section 1
