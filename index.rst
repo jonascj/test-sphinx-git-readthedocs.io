@@ -4,6 +4,8 @@
 Test sphinx + git + readthedocs.io 
 ##################################
 
+Some text for the index pages.
+
 .. image:: figs/python-logo-master-v3-TM.png 
     :align: center
     :scale: 100%
